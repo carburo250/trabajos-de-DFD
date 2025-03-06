@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+nombre
+2
+''
+6
+sueldo
+1
+0
+5
+igss 
+6
+0.0483
+6
+3
+4
+bono
+4
+0.25
+7
+Rsueldo
+1
+0
+5
+Tigss
+1
+0
+6
+1
+12
+bonificacion
+1
+0
+4
+1
+19
+'ingrese su nombre'
+5
+1
+6
+nombre
+4
+1
+21
+'cantidad del sueldo'
+5
+1
+6
+sueldo
+4
+1
+23
+'el nombre es:', nombre
+6
+3
+12
+bonificacion
+11
+sueldo*bono
+5
+tigss
+11
+sueldo*igss
+7
+Tsueldo
+25
+bonificacion+sueldo-tigss
+4
+1
+22
+'su igss es de:', igss
+4
+1
+31
+'su bonificacion', bonificacion
+4
+1
+35
+'su sueldo real serai de:', Tsueldo
+1

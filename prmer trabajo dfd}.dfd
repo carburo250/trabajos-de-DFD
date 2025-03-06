@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+suma
+1
+0
+6
+3
+6
+resta 
+1
+0
+14
+multiplicacion
+1
+0
+8
+divicion
+1
+0
+4
+1
+23
+'ingrese primer numero'
+5
+1
+4
+num1
+4
+1
+24
+'ingrese segundo numero'
+5
+1
+4
+num2
+6
+3
+4
+suma
+9
+num1+num2
+5
+resta
+9
+num1-num2
+14
+multiplicacion
+9
+num1*num2
+6
+1
+8
+divicion
+9
+num1/num2
+4
+1
+35
+'la suma de los numeros es:', suma 
+4
+1
+37
+'la resta de los numeros es:', resta 
+4
+1
+53
+'la multiplicacion de los numeros es', multiplicacion
+4
+1
+42
+'la divicion de los numeros es:', divicion
+1
